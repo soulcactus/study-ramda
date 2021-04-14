@@ -1,0 +1,20 @@
+{
+  "name": "study-ramda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:soulcactus/study-ramda.git",
+  "author": "soulcactus <hyejin.sun@illuminarean.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chance": "^1.1.1",
+    "@types/node": "^14.14.37",
+    "@types/ramda": "^0.27.40",
+    "prettier": "^2.2.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "chance": "^1.1.7",
+    "ramda": "^0.27.1"
+  }
+}
